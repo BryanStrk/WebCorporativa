@@ -1,0 +1,26 @@
+@font-face {font-family: 'BreakingBad.ttf';src: url(tipografia/BreakingBad.ttf);}
+#bodyIndex{font-family: 'BreakingBad.ttf';
+    src: url(tipografia/BreakingBad.ttf);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(img/fondo.png);
+    background-size: cover;}
+#bodyF{color: white;font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background-image:url(img/fondo.png);
+    background-size: cover;}
+
+
+
+    #texto1{font-family: 'BreakingBad.ttf';}
+    #poster{border: 10px outset brown;border-radius: 22px;}
+    #texto{color: white;}
+
+body{text-align: center;}.tabla1{margin:auto;border: 3px solid #2b2c24;width:1000px;height:50px;background-color:#2b2c24;}td{border:2px solid #2b2c24;width: 50px;height: 50px;}.c{background-color: #2b2c24;font-size: 10px;}.fondo{background-color:#dcee89;font-size: 10px;color: black;}
+.fondo2{background-color:#bcc29e;font-size: 10px;color: black;}.fondo3{background-color:#89a419;font-size: 10px;color: black;}.fondo4{background-color:#b7da29;font-size: 10px;color: black;}.fondo5{background-color: #ab8fcc;font-size: 10px;color: black;}.fondo6{background-color: #828f4a;font-size: 10px;color: black;}.fondo7{background-color: #c8e441;font-size: 10px;color: black;}.fondo8{background-color: #63702a;font-size: 10px;color: black;}.fondo9{background-color: #eff6ca;font-size: 10px;color: black;}.ha{background-image: url("Tabla\ Periódica/hankschrader.png");background-repeat: no-repeat;background-position: center;background-size: 98px 170px;color: black;}
+
+.tabla2{margin:auto;background-color:  #2b2c24;}.td2{background-color: #c3c42e;font-size: 10px;}
+
+
+
+
